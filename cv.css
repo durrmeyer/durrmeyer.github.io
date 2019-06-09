@@ -67,6 +67,7 @@ h2{
        flex-direction: row;
        justify-content: center;
        text-align: center;
+
    }
    .formations{
     display: block;
@@ -78,10 +79,14 @@ h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:25px;
     font-style: oblique;
+    justify-content: center;
+    text-align: center;
 }
 h4{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    justify-content: center;
+    text-align: center;
 }
 .section{
     margin-left: 50px;
