@@ -19,20 +19,6 @@
      
 
 /**Banner */
-.banner{
-    background: url(img/banner1.jpg) no-repeat; 
-    display: flex;
-    justify-content: center ;
-    align-items: flex-end;
-    height: 1000px;
-    width:100%;
-    margin: -140px;
-    text-align: center;
-    display: flex;
-    padding-left: 30px;
-    margin-left: 0px;
-
-}
 
    
 
